@@ -38,6 +38,7 @@
 		F04C86A21F68778000C54B16 /* saim_swift_sdkTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = saim_swift_sdkTests.swift; sourceTree = "<group>"; };
 		F04C86A41F68778000C54B16 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F0A910201F699C3800F23BF4 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		F0A910221F699EFB00F23BF4 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +62,7 @@
 		F04C86811F68778000C54B16 = {
 			isa = PBXGroup;
 			children = (
+				F0A910221F699EFB00F23BF4 /* .gitignore */,
 				F0A910201F699C3800F23BF4 /* README.md */,
 				F04C868C1F68778000C54B16 /* saim-swift-sdk */,
 				F04C86A11F68778000C54B16 /* saim-swift-sdkTests */,
