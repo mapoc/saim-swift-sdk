@@ -13,6 +13,7 @@
 		F04C86951F68778000C54B16 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F04C86941F68778000C54B16 /* Assets.xcassets */; };
 		F04C86981F68778000C54B16 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F04C86961F68778000C54B16 /* LaunchScreen.storyboard */; };
 		F04C86A31F68778000C54B16 /* saim_swift_sdkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F04C86A21F68778000C54B16 /* saim_swift_sdkTests.swift */; };
+		F0A910211F699C3800F23BF4 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = F0A910201F699C3800F23BF4 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		F04C869E1F68778000C54B16 /* saim-swift-sdkTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "saim-swift-sdkTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F04C86A21F68778000C54B16 /* saim_swift_sdkTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = saim_swift_sdkTests.swift; sourceTree = "<group>"; };
 		F04C86A41F68778000C54B16 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F0A910201F699C3800F23BF4 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 		F04C86811F68778000C54B16 = {
 			isa = PBXGroup;
 			children = (
+				F0A910201F699C3800F23BF4 /* README.md */,
 				F04C868C1F68778000C54B16 /* saim-swift-sdk */,
 				F04C86A11F68778000C54B16 /* saim-swift-sdkTests */,
 				F04C868B1F68778000C54B16 /* Products */,
@@ -199,6 +202,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F0A910211F699C3800F23BF4 /* README.md in Sources */,
 				F04C86901F68778000C54B16 /* ViewController.swift in Sources */,
 				F04C868E1F68778000C54B16 /* AppDelegate.swift in Sources */,
 			);
@@ -408,6 +412,7 @@
 				F04C86A91F68778000C54B16 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F04C86AA1F68778000C54B16 /* Build configuration list for PBXNativeTarget "saim-swift-sdkTests" */ = {
 			isa = XCConfigurationList;
@@ -416,6 +421,7 @@
 				F04C86AC1F68778000C54B16 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
